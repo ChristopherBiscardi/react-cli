@@ -1,0 +1,25 @@
+{
+  "name": "docker-tutorial",
+  "version": "1.0.0",
+  "description": "A docker CLI tutorial",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ehhhh"
+  },
+  "keywords": [
+    "docker",
+    "cli"
+  ],
+  "author": "Chris Biscardi <chris@docker.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^4.3.0",
+    "babel-loader": "^4.0.0",
+    "react": "^0.12.2",
+    "webpack": "^1.5.3"
+  }
+}
